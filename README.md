@@ -4,16 +4,16 @@ Guia estruturado de uso do Notebook LM. Criação de um notebook sobre um tema e
 # Métodos de preparo de café
 O tema escolhido foi "Métodos de preparo de café", contemplando diversos métodos, sejam eles de percolação ou de infusão, o estudo inicial focou em procurar diversos métodos, dês dos mais utilizados nacionalmente como os filtrados mellita e v60, ou até mersmo métodos de percolação como a conhecida moka italiana. Outros métodos também foram citados durante os estudos. Além de procurar os métodos, também foi averiguado o que é necessário para esses métodos, como o equipamento, temperatura da água, nível de moagem do grão, melhor tipo de torra do café, dentre outras características.
 
-##fontes utilizadas:
+## fontes utilizadas:  
 (https://santocafezinho.com.br/batalha-dos-metodos-v60-vs-chemex-qual-escolher-para-seu-cafe-especial/)  
 (https://notebooklm.google.com/notebook/821cf348-81fe-4fdd-ae86-bd7db47ef690)  
 (https://perfectdailygrind.com/pt/2020/12/09/como-ajustar-sua-receita-de-extracao-para-o-nivel-de-torra/)  
 (https://weberworkshops.com/products/bird)  
 
-##Pergunta (prompt):  
+## Pergunta (prompt):  
 "Quais são os métodos de preparo mais utilizados pelos brasileiros?"
 
-##Resposta:  
+## Resposta:  
 De acordo com as fontes, o método de preparo de café mais tradicional e difundido no Brasil é o coador de papel ou de pano
 . Entre eles, o filtro de papel do tipo Melitta destaca-se como o método mais popular no país, sendo a referência padrão para o consumo diário e para a moagem da maioria dos cafés pré-moídos nacionais
 .
@@ -34,10 +34,10 @@ O coador de papel (especialmente o Melitta) permanece como a principal escolha p
 
 
 
-##Pergunta (prompt):  
+## Pergunta (prompt):  
 "Para quem está começando no mundo dos cafés especiais, qual método você recomenda começar?"
 
-##Resposta:  
+## Resposta:  
 Para quem está iniciando na jornada dos cafés especiais, a recomendação consensual entre especialistas e baristas é começar pelo Hario V60. Este método é considerado ideal por oferecer uma curva de aprendizado mais suave e por ser mais "perdoável" com pequenos erros de técnica comparado a outros dispositivos
 .
 Abaixo, detalho as razões para essa escolha e outras alternativas viáveis para iniciantes:
@@ -76,10 +76,10 @@ Dica de Ouro para Iniciantes: Independentemente do método escolhido, o uso de u
 
 
 
-##Pergunta(prompt):  
+## Pergunta(prompt):  
 "Me fale sobre alguns métodos internacionais que não são vendidos aqui no Brasil"
 
-##Resposta:  
+## Resposta:  
 Embora muitos métodos de café especial tenham se popularizado no Brasil, as fontes descrevem alguns dispositivos que são considerados menos usuais ou que possuem uma origem e uso predominantemente internacionais, exigindo muitas vezes equipamentos específicos ou técnicas culturais distintas:
 1. Ibrik ou Cezve (Café Turco)
 Este é um método profundamente histórico originário da Turquia (antigo Império Otomano)
