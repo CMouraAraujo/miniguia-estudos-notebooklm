@@ -5,10 +5,10 @@ Guia estruturado de uso do Notebook LM. Criação de um notebook sobre um tema e
 O tema escolhido foi "Métodos de preparo de café", contemplando diversos métodos, sejam eles de percolação ou de infusão, o estudo inicial focou em procurar diversos métodos, dês dos mais utilizados nacionalmente como os filtrados mellita e v60, ou até mersmo métodos de percolação como a conhecida moka italiana. Outros métodos também foram citados durante os estudos. Além de procurar os métodos, também foi averiguado o que é necessário para esses métodos, como o equipamento, temperatura da água, nível de moagem do grão, melhor tipo de torra do café, dentre outras características.
 
 ##fontes utilizadas:
-(https://santocafezinho.com.br/batalha-dos-metodos-v60-vs-chemex-qual-escolher-para-seu-cafe-especial/)
-(https://notebooklm.google.com/notebook/821cf348-81fe-4fdd-ae86-bd7db47ef690)
-(https://perfectdailygrind.com/pt/2020/12/09/como-ajustar-sua-receita-de-extracao-para-o-nivel-de-torra/)
-(https://weberworkshops.com/products/bird)
+(https://santocafezinho.com.br/batalha-dos-metodos-v60-vs-chemex-qual-escolher-para-seu-cafe-especial/) 
+(https://notebooklm.google.com/notebook/821cf348-81fe-4fdd-ae86-bd7db47ef690) 
+(https://perfectdailygrind.com/pt/2020/12/09/como-ajustar-sua-receita-de-extracao-para-o-nivel-de-torra/) 
+(https://weberworkshops.com/products/bird) 
 
 ##Pergunta (prompt):
 "Quais são os métodos de preparo mais utilizados pelos brasileiros?"
